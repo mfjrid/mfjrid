@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Muhammad Fajar</h1>
 
-<ul>
+<ul style="list-style-type: circle;">
   <li>Designer of <b>Origamy Creative Agency</b></li>
 </ul>
 
