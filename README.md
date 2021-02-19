@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Muhammad Fajar</h1>
 
-<ul><li>Designer of <b>Origamy Creative Agency</b></li></ul>
+<ul><li>Designer of `<b>Origamy Creative Agency</b>`</li></ul>
 
 
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/5a0chw1ynjii20kp4u2v0vzuh)
