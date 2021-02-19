@@ -1,10 +1,6 @@
 <h1 align="center">Hello 👋, I'm Muhammad Fajar</h1>
 
-<ul>
-  <li>Designer of <b>Origamy Creative Agency</b></li>
-</ul>
-
-***
+> Designer of <b>Origamy Creative Agency</b>
 
 ## Tech Stack
 * HTML
