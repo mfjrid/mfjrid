@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Muhammad Fajar</h1>
 
 ```
-* Designer of <b>Origamy Creative Agency</b>
+* Designer of Origamy Creative Agency
 ```
 
 
