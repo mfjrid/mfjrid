@@ -1,8 +1,10 @@
 <h1 align="center">Hello 👋, I'm Muhammad Fajar</h1>
 
-<ul list-style-type="square">
+<ul>
   <li>Designer of <b>Origamy Creative Agency</b></li>
 </ul>
+
+***
 
 ## Tech Stack
 * HTML
