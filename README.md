@@ -5,11 +5,13 @@
 ## Tech Stack
 - HTML
 - CSS
+  - Bootstrap
+  - Tailwind CSS
+  - Materialize CSS
+  - SASS
 - Javascript
-- Bootstrap
-- Tailwind CSS
-- Materialize CSS
-
+  - ES6
+  - NodeJS
 
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/5a0chw1ynjii20kp4u2v0vzuh)
 
