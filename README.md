@@ -14,5 +14,6 @@
 - Javascript
   - ES6
   - NodeJS
+  - A bit ReactJS
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mfjrid/mfjrid)
