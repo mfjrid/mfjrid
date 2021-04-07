@@ -16,4 +16,6 @@
   - NodeJS
   - A bit ReactJS
 
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mfjrid/mfjrid)
