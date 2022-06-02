@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Muhammad Fajar</h1>
 
-* UI/UX Designer of <b>Origamy Creative Agency</b>
+<!-- * UI/UX Designer of <b>Origamy Creative Agency</b>
 * Public Relation and Publication Staff at <b>Ummul Quro Depok</b>
-* Executive Designer of <b>Kaka Print</b>
+* Executive Designer of <b>Kaka Print</b> -->
 
 ## Tech Stack
 - HTML
@@ -15,6 +15,8 @@
   - ES6
   - NodeJS
   - A bit ReactJS
+  -
+- PHP
 
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
