@@ -18,7 +18,6 @@
   -
 - PHP
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfjrid&show_icons=true&locale=en&layout=compact" alt="mfjrid" /></p>
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mfjrid/mfjrid)
