@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Muhammad Fajar</h1>
 
-<b>Website Developer</b>
-![](https://img.shields.io/github/stars/mfjrid/editor.md.svg) ![](https://img.shields.io/github/forks/mfjrid/editor.md.svg) ![](https://img.shields.io/github/tag/mfjrid/editor.md.svg) ![](https://img.shields.io/github/release/mfjrid/editor.md.svg) ![](https://img.shields.io/github/issues/mfjrid/editor.md.svg)
+<b>Website Developer</b> <br>
+
 
 ## Tech Stack
 <div>
@@ -31,7 +31,7 @@
 <br>
 
 ## Stats
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfjrid" alt="mfjrid" /> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfjrid&show_icons=true&locale=en&layout=compact" alt="mfjrid" /></p>
+![](https://github-readme-stats.vercel.app/api?username=mfjrid&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfjrid" alt="mfjrid" /> <br> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfjrid&show_icons=true&locale=en&layout=compact" alt="mfjrid" /></p>
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
