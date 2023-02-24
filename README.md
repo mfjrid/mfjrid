@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Muhammad Fajar</h1>
 
-<center>
+<div align="center">
   
 ## Tech Stack
 <div>
@@ -36,4 +36,4 @@
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
   
- </center>
+ </div>
