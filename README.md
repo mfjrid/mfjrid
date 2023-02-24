@@ -1,8 +1,7 @@
 <h1 align="center">Hello 👋, I'm Muhammad Fajar</h1>
 
-<!-- * UI/UX Designer of <b>Origamy Creative Agency</b>
-* Public Relation and Publication Staff at <b>Ummul Quro Depok</b>
-* Executive Designer of <b>Kaka Print</b> -->
+<b>Website Developer</b>
+![](https://img.shields.io/github/stars/mfjrid/editor.md.svg) ![](https://img.shields.io/github/forks/mfjrid/editor.md.svg) ![](https://img.shields.io/github/tag/mfjrid/editor.md.svg) ![](https://img.shields.io/github/release/mfjrid/editor.md.svg) ![](https://img.shields.io/github/issues/mfjrid/editor.md.svg)
 
 ## Tech Stack
 <div>
