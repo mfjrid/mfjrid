@@ -1,8 +1,7 @@
 <h1 align="center">Hello 👋, I'm Muhammad Fajar</h1>
 
-<b>Website Developer</b> <br>
-
-
+<center>
+  
 ## Tech Stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="30" height="30"/>&nbsp;
@@ -36,3 +35,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=mfjrid&show_icons=true&locale=en&layout=compact)<br>
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+  
+ </center>
