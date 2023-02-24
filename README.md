@@ -31,7 +31,8 @@
 <br>
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=mfjrid&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfjrid" alt="mfjrid" /> <br/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfjrid&show_icons=true&locale=en&layout=compact" alt="mfjrid" />
+![](https://github-readme-stats.vercel.app/api?username=mfjrid&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfjrid" alt="mfjrid" /><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfjrid&show_icons=true&locale=en&layout=compact" alt="mfjrid" />
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
