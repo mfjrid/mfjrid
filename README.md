@@ -2,7 +2,7 @@
 
 <div align="center">
   
-## Tech Stack
+### Tech Stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="30" height="30"/>&nbsp;
@@ -33,7 +33,7 @@
 </div>
 <br>
 
-## Stats
+### Stats
 ![](https://github-readme-stats.vercel.app/api?username=mfjrid&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mfjrid)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=mfjrid&show_icons=true&locale=en&layout=compact)<br>
